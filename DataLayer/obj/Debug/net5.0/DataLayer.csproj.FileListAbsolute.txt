@@ -1,0 +1,36 @@
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\bin\Debug\net5.0\DataLayer.deps.json
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.json
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.dev.json
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\bin\Debug\net5.0\DataLayer.dll
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\bin\Debug\net5.0\DataLayer.pdb
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\obj\Debug\net5.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\obj\Debug\net5.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfo.cs
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CopyComplete
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\obj\Debug\net5.0\DataLayer.dll
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\obj\Debug\net5.0\refint\DataLayer.dll
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\obj\Debug\net5.0\DataLayer.pdb
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\obj\Debug\net5.0\DataLayer.genruntimeconfig.cache
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\obj\Debug\net5.0\ref\DataLayer.dll
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\03.UnitTests and Git\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\bin\Debug\net5.0\DataLayer.deps.json
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\03.UnitTests and Git\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.json
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\03.UnitTests and Git\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.dev.json
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\03.UnitTests and Git\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\bin\Debug\net5.0\DataLayer.dll
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\03.UnitTests and Git\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\bin\Debug\net5.0\DataLayer.pdb
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\03.UnitTests and Git\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\03.UnitTests and Git\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\03.UnitTests and Git\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\obj\Debug\net5.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\03.UnitTests and Git\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\obj\Debug\net5.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\03.UnitTests and Git\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\03.UnitTests and Git\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfo.cs
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\03.UnitTests and Git\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\03.UnitTests and Git\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CopyComplete
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\03.UnitTests and Git\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\obj\Debug\net5.0\DataLayer.dll
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\03.UnitTests and Git\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\obj\Debug\net5.0\refint\DataLayer.dll
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\03.UnitTests and Git\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\obj\Debug\net5.0\DataLayer.pdb
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\03.UnitTests and Git\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\obj\Debug\net5.0\DataLayer.genruntimeconfig.cache
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\03.UnitTests and Git\Ivan_Nikolov_11e_10_UnitTesting\DataLayer\obj\Debug\net5.0\ref\DataLayer.dll
